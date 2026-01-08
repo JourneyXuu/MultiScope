@@ -1,0 +1,27 @@
+# QT 相关
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+cmake-build-*
+build*/
+*.o
+*.so
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.zip
+*.7z
+
+# 系统/编辑器缓存
+.DS_Store
+.idea/
+.vscode/
+*.sublime-*

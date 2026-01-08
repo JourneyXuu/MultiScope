@@ -1,0 +1,8 @@
+# ninja log v6
+9	2428	7895423913838994	MultiScope_autogen/timestamp	813c44cd677e633b
+2442	5233	7895423915138492	CMakeFiles/MultiScope.dir/main.cpp.obj	32bd434e714c4739
+2447	5248	7895423915188560	CMakeFiles/MultiScope.dir/Widget.cpp.obj	be1623bc99246b1b
+9	2428	7895423913838994	MultiScope_autogen/mocs_compilation.cpp	813c44cd677e633b
+9	2428	7895423913838994	D:/A_Project/QT_Project/MultiScope/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/MultiScope_autogen/timestamp	813c44cd677e633b
+2438	18066	7895423915088510	CMakeFiles/MultiScope.dir/MultiScope_autogen/mocs_compilation.cpp.obj	59a7e1b87176d24b
+9	2428	7895423913838994	D:/A_Project/QT_Project/MultiScope/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/MultiScope_autogen/mocs_compilation.cpp	813c44cd677e633b
